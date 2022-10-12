@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SimpleTracer",
-    platforms: [.macOS(.v11), .iOS(.v13)],
+    platforms: [.macOS(.v11), .iOS(.v14)],
     products: [
         .library(
             name: "SimpleTracer",
